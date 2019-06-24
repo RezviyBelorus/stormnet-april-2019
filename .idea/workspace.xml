@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/LambdaApp.java" line="39" mnemonic="9" />
+  </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
     <option name="SERVER_URL" value="http://buildserver" />
@@ -23,36 +26,25 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f4b7f31-88d1-4719-b0ba-408796792920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_15/BuilderBufferExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_15/RegexExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_15/StringBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_15/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/buffered_example/BufferedWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/FileInputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/OutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/fos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/ReadObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/WriteObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/object" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/plan.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/PrintStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/ps.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/BufferedReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/ReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/PrintStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/big_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/byte_array_example/ByteArrayOSExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/file_write/FileWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/ReadObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/ReadWriteObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/object" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/PatternExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/PrivateDefaultMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/StringExample.java" afterDir="false" />
+    <list default="true" id="4f4b7f31-88d1-4719-b0ba-408796792920" name="Default Changelist" comment="hw_12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/part_6/ReturnLambdaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_1_2/LambdaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_3_4/MehodRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/LambdaConstructorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_1/PredicateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_2/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_3/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_4/SupplierMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_5_6/UnaryAndBinaryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/classwork/plan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/prepare/LambdaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/ConstructorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/UserBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/prepare/lambda_method_result/LambdaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec_19/prepare/predicate/PredicateMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,112 +57,119 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/plan.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/WriteObjectExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/ReaderExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/BufferedReaderExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/PrintStreamExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/ps.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="63" />
+            <state relative-caret-position="425">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/OutputStreamExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_5_6/UnaryAndBinaryMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_3/FunctionExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_4/SupplierMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_2/ConsumerExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_1/PredicateMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+              <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1320#1321#0" expanded="true" />
+                <element signature="e#1346#1347#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/fos.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/T.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/ReadObjectExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+            <state relative-caret-position="255">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/FileInputStreamExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/part_6/ReturnLambdaMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="218">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/LambdaConstructorMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -189,6 +188,12 @@
     <findStrings>
       <find>add(</find>
       <find>join</find>
+      <find>Total produced:</find>
+      <find>umed volati</find>
+      <find>sum by (service_name,t</find>
+      <find>Q=</find>
+      <find>q</find>
+      <find>he</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,64 +202,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lecture_13/generic_example/classwork/generic_example/GenericExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lecture_13/generic_example/classwork/clone_example/SimpleBook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lecture_13/generic_example/classwork/clone_example/Author.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lecture_13/generic_example/classwork/clone_example/HarryPotter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lecture_13/generic_example/classwork/generic_example/WildcardConstructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lecture_13/generic_example/WildCard.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_12/AbstractClassImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_13/clone_example/SimpleBook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/set/SetExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/queue/QueueExamplr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/queue/QueueExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/stack/StackExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/map/MapExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/map/TreeMapExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/list/ListExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/iterator/WrongRemove.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/iterator/Nasty.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_16/iterator/Nastya.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_15/StringBenchmark.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_15/StringExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_15/StringBuildBufferExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_15/BuilderBufferExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/StringExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_15/RegexExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/HWTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/CollectionExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/PrivateDefaultMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Pattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/PatternExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/PrintStreamExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/ReadWriteObjectExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/ReadObjectExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/Work.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/file_write/FileWriterExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/preparing/byte_array_example/ByteArrayOSExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/plan.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/buffered_example/BufferedWriterExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/ReadWriteObjectExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/ReadObjectExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/WriteObjectExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/FileInputStreamExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/ReaderExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/BufferedReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/BufferedReaderExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/PrintStreamExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/ps.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/fos.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/OutputStreamExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/prepare/semaphore_example/single_semaphore_example/SemaphoreStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/prepare/semaphore_example/single_semaphore_example/SemaphoreMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/prepare/countdownlatch_example/CountDownLatchExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/prepare/concurrent_collections/ConcurrentMapExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarStoreMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/reentrantlock_example/IStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/reentrantlock_example/ReentrantLockMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/semaphore_example/SemaphoreMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/semaphore_example/Counter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerCat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerDog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerMan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/count_down_latch_example/CountDownLatchMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/count_down_latch_example/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/atomic_example/AtomicExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/atomic_example/AtomicCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/atomic_example/AtomicMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/sync_collection_example/SyncCollectionMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/sync_collection_example/SyncCollectionExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_18/classwork/dead_lock_example/DeadLockMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/BufReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/text.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/Task_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/interface_default/MainDefault.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/interface_default/DefaultMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/UserBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/LambdaApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/lambda_method_result/LambdaApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/predicate/PredicateMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/ConstructorMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/plan.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_1/LambdaMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_3/MehodRefMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/LambdaConstructorMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/part_6/ReturnLambdaMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_1/PredicateMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_2/ConsumerExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_3/FunctionExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_4/SupplierMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_5_6/UnaryAndBinaryMain.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
+    <option name="y" value="27" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -262,6 +267,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,7 +300,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_17" type="462c0819:PsiDirectoryNode" />
+              <item name="task_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
@@ -301,7 +308,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_17" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
               <item name="classwork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -310,9 +333,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_17" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
               <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="file_stream" type="462c0819:PsiDirectoryNode" />
+              <item name="part_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
@@ -320,9 +343,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_17" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
               <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="printstream_example" type="462c0819:PsiDirectoryNode" />
+              <item name="part_1" type="462c0819:PsiDirectoryNode" />
+              <item name="point_3_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
@@ -330,8 +354,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_17" type="462c0819:PsiDirectoryNode" />
-              <item name="preparing" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="classwork" type="462c0819:PsiDirectoryNode" />
+              <item name="part_1" type="462c0819:PsiDirectoryNode" />
+              <item name="point_5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
@@ -339,29 +365,103 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_17" type="462c0819:PsiDirectoryNode" />
-              <item name="preparing" type="462c0819:PsiDirectoryNode" />
-              <item name="read_write_object_example" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="classwork" type="462c0819:PsiDirectoryNode" />
+              <item name="part_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="classwork" type="462c0819:PsiDirectoryNode" />
+              <item name="part_2" type="462c0819:PsiDirectoryNode" />
+              <item name="point_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="constructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda_method_result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda_method_result" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaApp.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stormnet-april-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stormnet-april-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lec_19" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaApp.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560190027219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561397516649" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eai-service/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lec_18.classwork" />
+      <recent name="lec_18" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lecture_13.generic_example.classwork.utils" />
     </key>
@@ -378,13 +478,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutputStreamExample">
-    <configuration name="BufferedReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_17.classwork.reader_example.BufferedReaderExample" />
+  <component name="RunManager" selected="Application.UnaryAndBinaryMain">
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_19.classwork.part_2.point_2.ConsumerExample" />
       <module name="stormnet-april-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lec_17.classwork.reader_example.*" />
+          <option name="PATTERN" value="lec_19.classwork.part_2.point_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,12 +492,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_17.classwork.file_stream.FileInputStreamExample" />
+    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_19.classwork.part_2.point_3.FunctionExample" />
       <module name="stormnet-april-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lec_17.classwork.file_stream.*" />
+          <option name="PATTERN" value="lec_19.classwork.part_2.point_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,12 +505,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_17.classwork.file_stream.OutputStreamExample" />
+    <configuration name="PredicateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_19.classwork.part_2.point_1.PredicateMain" />
       <module name="stormnet-april-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lec_17.classwork.file_stream.*" />
+          <option name="PATTERN" value="lec_19.classwork.part_2.point_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,12 +518,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_17.classwork.printstream_example.PrintStreamExample" />
+    <configuration name="SupplierMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_19.classwork.part_2.point_4.SupplierMain" />
       <module name="stormnet-april-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lec_17.classwork.printstream_example.*" />
+          <option name="PATTERN" value="lec_19.classwork.part_2.point_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,12 +531,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lec_17.classwork.reader_example.ReaderExample" />
+    <configuration name="UnaryAndBinaryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lec_19.classwork.part_2.point_5_6.UnaryAndBinaryMain" />
       <module name="stormnet-april-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lec_17.classwork.reader_example.*" />
+          <option name="PATTERN" value="lec_19.classwork.part_2.point_5_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,19 +545,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReaderExample" />
-      <item itemvalue="Application.FileInputStreamExample" />
-      <item itemvalue="Application.BufferedReaderExample" />
-      <item itemvalue="Application.PrintStreamExample" />
-      <item itemvalue="Application.OutputStreamExample" />
+      <item itemvalue="Application.PredicateMain" />
+      <item itemvalue="Application.ConsumerExample" />
+      <item itemvalue="Application.SupplierMain" />
+      <item itemvalue="Application.FunctionExample" />
+      <item itemvalue="Application.UnaryAndBinaryMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OutputStreamExample" />
-        <item itemvalue="Application.PrintStreamExample" />
-        <item itemvalue="Application.BufferedReaderExample" />
-        <item itemvalue="Application.FileInputStreamExample" />
-        <item itemvalue="Application.ReaderExample" />
+        <item itemvalue="Application.UnaryAndBinaryMain" />
+        <item itemvalue="Application.FunctionExample" />
+        <item itemvalue="Application.SupplierMain" />
+        <item itemvalue="Application.ConsumerExample" />
+        <item itemvalue="Application.PredicateMain" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +587,16 @@
       <workItem from="1559728530345" duration="410000" />
       <workItem from="1560169218362" duration="8482000" />
       <workItem from="1560182517115" duration="7170000" />
-      <workItem from="1560244143247" duration="556000" />
+      <workItem from="1560244143247" duration="698000" />
+      <workItem from="1560249019535" duration="1537000" />
+      <workItem from="1560763919101" duration="15364000" />
+      <workItem from="1560785634944" duration="8000" />
+      <workItem from="1560787768251" duration="9746000" />
+      <workItem from="1560847124184" duration="1856000" />
+      <workItem from="1561019103839" duration="7661000" />
+      <workItem from="1561305683377" duration="737000" />
+      <workItem from="1561363679078" duration="4186000" />
+      <workItem from="1561392082999" duration="5358000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1558430705565</created>
@@ -503,17 +612,46 @@
       <option name="project" value="LOCAL" />
       <updated>1559035610235</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lec_17">
+      <created>1560244759249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560244759249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lec_18">
+      <created>1560850692034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560850692034</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hw_12">
+      <created>1561026593826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561026593826</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hw_12">
+      <created>1561026709439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561026709439</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67119000" />
+    <option name="totallyTimeSpent" value="113714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="988" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.29829243" />
-      <window_info id="Structure" order="1" sideWeight="0.50080514" side_tool="true" weight="0.291889" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49839228" visible="true" weight="0.25933832" />
+      <window_info id="Structure" order="1" sideWeight="0.5016077" side_tool="true" weight="0.30469584" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -521,18 +659,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32406288" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39782345" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32043532" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39540508" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297062" />
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32648125" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3264418" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="TeamCity" order="13" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32889965" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2497332" />
@@ -584,10 +723,95 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="lec_16" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec_16" />
+    <MESSAGE value="lec_17" />
+    <MESSAGE value="lec_18" />
+    <MESSAGE value="hw_12" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_12" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/prepare/semaphore_example/Philosopher.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/prepare/semaphore_example/Philosopher.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/prepare/producer_consumer_example/CarStore.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/prepare/producer_consumer_example/CarStore.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/prepare/producer_consumer_example/CarStore.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/prepare/producer_consumer_example/CarStore.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerExample.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerExample.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/Task_01.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/Task_01.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/Task_01.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>br.readLine()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>iterator.hasPrevious()</expression-string>
         <language-id>JAVA</language-id>
@@ -596,235 +820,258 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_16/iterator/WrongRemove.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/prepare/reentrantlock_example/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/HashSet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/AbstractCollection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="152" column="23" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_16/set/SetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10778">
-          <caret line="688" column="18" selection-start-line="688" selection-start-column="18" selection-end-line="688" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_15/StringBuildBufferExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/StringExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_15/StringBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_15/RegexExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/wait_notify_example/CarStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_15/StringExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/reentrantlock_example/ReentrantLockMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+        <state relative-caret-position="291">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_15/BuilderBufferExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_16/queue/QueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_16/stack/StackExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_16/map/MapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_16/map/TreeMapExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/reentrantlock_example/IStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_13/clone_example/HarryPotterMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/PrivateDefaultMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/prepare/semaphore_example/CommonResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/PatternExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/prepare/producer_consumer_example/CarStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="700">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/AutoCloseable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/PrintStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="81" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/Work.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/OutputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/file_write/FileWriterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/HWTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="101" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/PrintStreamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/CollectionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/ReadObjectExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/semaphore_example/SemaphoreMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/semaphore_example/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerDog.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/BufReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/count_down_latch_example/CountDownLatchMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/count_down_latch_example/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/prepare/concurrent_collections/ConcurrentMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/atomic_example/AtomicMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/nio/fs/UnixCopyFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="392" selection-start-line="392" selection-end-line="392" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/File.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/StringUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/sync_collection_example/SyncCollectionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/dead_lock_example/DeadLockMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/Task_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homework/hw_12/task_01/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/atomic_example/AtomicCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/interface_default/MainDefault.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/interface_default/DefaultMethod.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/sync_collection_example/SyncCollectionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/UserBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/ConstructorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/lambda_method_result/LambdaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/LambdaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/constructor/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/prepare/predicate/PredicateMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -832,184 +1079,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/byte_array_example/ByteArrayOSExample.java">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Predicate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="119">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_18/classwork/exchanger_example/ExchangerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_1_2/LambdaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_3_4/MehodRefMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="218">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/InputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/FileInputStream.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/LambdaConstructorMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/plan.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/part_6/ReturnLambdaMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="82" selection-start-column="82" selection-end-column="82" />
+        <state relative-caret-position="218">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/BufferedOutputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/buffered_example/BufferedWriterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/big_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/object">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/object">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="105" selection-start-column="105" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/ReadWriteObjectExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/preparing/read_write_object_example/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/BufferedReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/WriteObjectExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/ReaderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/reader_example/BufferedReaderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/PrintStreamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/printstream_example/ps.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/fos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/object_example/ReadObjectExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/FileInputStreamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lec_17/classwork/file_stream/OutputStreamExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_1/point_5/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_1/PredicateMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_4/SupplierMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_3/FunctionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_2/ConsumerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/plan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lec_19/classwork/part_2/point_5_6/UnaryAndBinaryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
