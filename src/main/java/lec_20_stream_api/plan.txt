@@ -1,0 +1,24 @@
+Материал:
+https://metanit.com/java/tutorial/10.1.php
+
+Part 1
+1. Что такое стримы, с какой версии появились, терминальные и промежуточные операции.
+2. Переиспользование стримов
+3. IntStream, Stream.iterate()
+
+Part 2
+1. Filter
+2. Map
+3. FlatMap
+4. Sort
+5. Concat streams
+6. Skip, limit
+7. FindFirst, FindAny
+8. AllMatch, AnyMatch
+9. Min, Max
+
+Part 3
+1. Reduce
+2. Optional, ifPresent, orElse, orElseThrow
+3. Collectors
+4. GroupingBy
